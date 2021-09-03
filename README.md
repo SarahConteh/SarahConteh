@@ -4,11 +4,11 @@
 Hello, I'm Sarah 👋🏾
 I'm a data analyst and aspiring software developer based in London, UK. Currently, I work as a Human Resource Information Analyst at a property consultant firm. Looking to buid connections and gain experience
 
-[www.linkedin.com/in/sarah-conteh-09bb04a9](www.linkedin.com/in/sarah-conteh-09bb04a9 "Linkedin")
+📫[Linkedin: www.linkedin.com/in/sarah-conteh-09bb04a9](www.linkedin.com/in/sarah-conteh-09bb04a9 "Linkedin")
 
-I’m currently learning: R, Tableau & Python
+🌱I’m currently learning: R, Tableau & Python
 
-Proficient in: HTML, CSS & SQL
+🌱Proficient in: HTML, CSS & SQL
 
 <!-- **SarahConteh/SarahConteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
