@@ -7,6 +7,7 @@ I'm a data analyst and aspiring software developer based in London, UK. Currentl
 [www.linkedin.com/in/sarah-conteh-09bb04a9](www.linkedin.com/in/sarah-conteh-09bb04a9 "Linkedin")
 
 I’m currently learning: R, Tableau & Python
+
 Proficient in: HTML, CSS & SQL
 
 <!-- **SarahConteh/SarahConteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
